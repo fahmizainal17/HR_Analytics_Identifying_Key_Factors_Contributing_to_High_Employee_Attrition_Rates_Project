@@ -1,10 +1,9 @@
-# HR-Analytics-Project-Identifying-Key-Factors-Contributing-to-High-Employee-Attrition-Rates
-Title: HR Analytics Project: Identifying Key Factors Contributing to High Employee Attrition Rates
+# HR Analytics Project: Identifying Key Factors Contributing to High Employee Attrition Rates
 
-Description:
+## Description:
 This HR Analytics project aims to investigate and understand the factors influencing the high attrition rate within the company. The analysis focuses on several key aspects, including managerial influence, recruitment sources, and annual salary.
 
-**Project Workflow:**
+### Project Workflow:
 
 1. **Data Collection using PostgreSQL:**
    - Utilizing PostgreSQL for efficient and secure data collection from various company databases.
@@ -22,16 +21,16 @@ This HR Analytics project aims to investigate and understand the factors influen
    - Creating interactive and insightful visualizations in Tableau to effectively communicate findings.
    - Designing a Tableau guided story to present the key insights and trends to stakeholders.
 
-**Key Focus Areas:**
+### Key Focus Areas:
    - **Managerial Influence:** Evaluate the impact of different managerial styles on employee attrition.
    - **Recruitment Sources:** Analyze attrition rates based on the source of employee recruitment.
    - **Annual Salary:** Investigate the relationship between annual salary structures and attrition rates.
 
-**Stakeholder Presentation:**
+### Stakeholder Presentation:
    - Developing a Tableau guided story to present the HR analytics findings to stakeholders.
    - The Tableau story provides an interactive journey, allowing stakeholders to explore visualizations and understand the identified factors contributing to high attrition.
 
-**Access the Tableau Story:**
+### Access the Tableau Story:
    - [Tableau HR Analytics Story](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/viz/Fahmi_HRAnalyticsStory/Story)
 
 This comprehensive HR Analytics project leverages PostgreSQL, Excel, and Tableau to collect, clean, analyze, and visualize data. The goal is to provide actionable insights to HR professionals and company leadership for effective attrition management and employee retention strategies.
