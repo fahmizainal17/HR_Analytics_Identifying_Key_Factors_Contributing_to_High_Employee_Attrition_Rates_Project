@@ -34,7 +34,7 @@ This HR Analytics project aims to investigate and understand the factors influen
 
 ## **🔧 Technologies Used**
 
-<div> <h1 style="text-align: center;">Data Analytics with PostgreSQL, Excel, and Tableau</h1> <img style="text-align: left" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="10%" alt="PostgreSQL Logo" /> <img style="text-align: left" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="10%" alt="Excel Logo" /> <img style="text-align: left" src="<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>" width="10%" alt="Tableau Logo" /> </div> <br>
+<div> <h1 style="text-align: center;">Data Analytics with PostgreSQL, Excel, and Tableau</h1> <img style="text-align: left" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="10%" alt="PostgreSQL Logo" /> <img style="text-align: left" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="10%" alt="Excel Logo" /> <img style="text-align: left" src="https://img.icons8.com/color/48/tableau-software.png" width="10%" alt="Tableau Logo" /> </div> <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
